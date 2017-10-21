@@ -1,0 +1,23 @@
+{
+  "name": "webrtc-web-master",
+  "version": "1.0.0",
+  "engines": {
+    "node": "6.11.4"
+  },
+  "description": "test",
+  "main": "\u001b[D\u001bhtml)",
+  "scripts": {
+    "heroku-prebuild": "echo This runs before Heroku installs your dependencies.",
+    "heroku-postbuild": "echo This runs afterwards."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/runningo/webrtctest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/runningo/webrtctest/issues"
+  },
+  "homepage": "https://github.com/runningo/webrtctest#readme"
+}
